@@ -1,6 +1,6 @@
 # Patient Portal & Monitoring GUI
  
-## Authors: Diana Koo and Philjae Chang
+## Authors: Philjae Chang and Diana Koo
  
 ## Purpose
 The purpose of this project is to build a Patient Monitoring System which can upload and store patient data in a server, as well as retrieve the stored data for continuous monitoring of the patients. The system consists of 1)  the patient portal, which allows the user to upload their patient information to the server, 2) the patient monitor, which allows the user to access the latest patient information, and 3) the server/database. The patient portal and patient monitor are two different graphic user interfaces (GUIs). 
