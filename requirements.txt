@@ -1,0 +1,12 @@
+pytest
+pytest-pycodestyle
+requests
+flask
+pymodm
+Pillow
+freezegun
+matplotlib
+scipy
+numpy
+pandas
+dnspython
